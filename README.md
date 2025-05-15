@@ -1,4 +1,4 @@
-# Hi, I'm Gideon Ayomide Kayode – Data Scientist & Research Enthusiast
+# Hi, I'm Gideon Ayomide Kayode – Data Analyst|Data Scientist & Research Enthusiast
 - ✍️ I'm still undergoing learning in Data science and analytics 
 - 👀 I’m passionate about turning data into actionable insights
 - 🌱 I'd like to build impactful machine learning models to solve real-world problems with data.
