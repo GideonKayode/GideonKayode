@@ -1,14 +1,14 @@
 # Hi, I'm Gideon Ayomide Kayode – Data Scientist|SPSS Data Analyst|Research Enthusiast 
-- ✍️ I am a curious and anlaytical thinker, currently contributing to open-source projects and research-based solutions that address real-world problems
+- ✍️ I am a curious and anlaytical thinker, currently contributing to open-source projects and research-based solutions that address real-world problems in Health, Technology and Agriculture. 
 - 👀 I’m passionate about turning data into actionable insights
 - 🌱 I'd like to build impactful machine learning models to solve real-world problems with data.
 - 💞️ I’m looking to collaborate on problem solving projects 
 - 📫 You can reach me through my email - giddywrites@gmail.com 
 
 ## Tech Stack
-- Languages: 'Python', 'SQL' and 'R' (learning)
+- Languages: 'Python', 'SQL'
 - Tools and Libaries:'Pandas', 'Numpy', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'Jupyter'
-- Data Visualization: 'PowerBI', 'Excel'
+- Data Visualization: 'PowerBI', 'Excel', 
 - Research Tools: 'SPSS' 
 
 <!---
